@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Pikachu doreamon</p>
+        <p>Pikachu doreamon power rangers dino thunder</p>
       </header>
     </div>
   );
