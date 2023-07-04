@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Pikachu doreamon power rangers dino thunder he-man ninja hatori</p>
+        <p>Pikachu doreamon power rangers dino thunder he-man ninja hatori nobitha sunio</p>
       </header>
     </div>
   );
